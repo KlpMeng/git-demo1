@@ -1,2 +1,6 @@
 我是data1.txt
+<<<<<<< HEAD
 master 分支
+=======
+我在mybranch分支
+>>>>>>> mybranch
